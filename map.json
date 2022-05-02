@@ -402,8 +402,17 @@
          "tilewidth":32
         }, 
         {
+         "columns":12,
          "firstgid":9790,
-         "source":"src\/assets\/QR.tsx"
+         "image":"src\/assets\/QR.png",
+         "imageheight":320,
+         "imagewidth":384,
+         "margin":0,
+         "name":"QR",
+         "spacing":0,
+         "tilecount":120,
+         "tileheight":32,
+         "tilewidth":32
         }, 
         {
          "columns":49,
