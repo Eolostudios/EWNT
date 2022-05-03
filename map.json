@@ -117,7 +117,7 @@
          "name":"Bckgrd",
          "opacity":1,
          "type":"tilelayer",
-         "visible":false,
+         "visible":true,
          "width":50,
          "x":0,
          "y":0
@@ -141,7 +141,7 @@
          "name":"floor",
          "opacity":0.6,
          "type":"tilelayer",
-         "visible":false,
+         "visible":true,
          "width":50,
          "x":0,
          "y":0
