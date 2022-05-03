@@ -100,7 +100,7 @@
          "opacity":1,
          "properties":[
                 {
-                 "name":"gotWebsite",
+                 "name":"openWebsite",
                  "type":"string",
                  "value":"https:\/\/global-corona.blog"
                 }],
