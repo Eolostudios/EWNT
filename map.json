@@ -72,7 +72,7 @@
          "opacity":1,
          "properties":[
                 {
-                 "name":"openWebsite",
+                 "name":"openTab",
                  "type":"string",
                  "value":"https:\/\/global-corona.blog"
                 }, 
@@ -84,7 +84,7 @@
                 {
                  "name":"openWebsiteTriggerMessage",
                  "type":"string",
-                 "value":"Dr\u00fccke die Leertaste, um global-corona.blog in neuem Browsertab zu \u00f6ffen. \nAchtung: Um hierher zur\u00fcck zu kehren, einfach wieder auf den Workadventu.re Tab klicken."
+                 "value":"Dr\u00fccke die Leertaste, um www.global-corona.blog in neuem Browsertab zu \u00f6ffen. \nAchtung: Um hierher zur\u00fcck zu kehren, einfach wieder auf den Workadventu.re Tab klicken."
                 }],
          "type":"tilelayer",
          "visible":true,
